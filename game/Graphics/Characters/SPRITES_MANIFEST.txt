@@ -1,0 +1,31 @@
+# Konfiguracja sprite'ów dla VX Ace
+# Każdy sprite powinien być w formacie 384x384 (4x4 ramki po 96x96)
+
+# POSTACI GŁÓWNE
+Gustawiusz_sprite.png     # Władca Izolatki - Timeout Specialist
+Pele_sprite.png           # Władca Gazowni Odrodzenia - Szczera Mowa
+Marcinek34_sprite.png     # Władca Nowego Sprzymierza - Defenseur
+
+# POZOSTAŁE POSTACIE (DO DODANIA)
+# Wiesiem_sprite.png
+# PolandBall_sprite.png
+# Damianek_sprite.png
+# Skiller_sprite.png
+# Chendman_sprite.png
+# Wymiatacz_sprite.png     # Boss końcowy
+# Kubeha_sprite.png
+# After_sprite.png
+# Rex_sprite.png
+# Foren_sprite.png
+# Lanos_sprite.png
+# Chlejek_sprite.png
+# Wezol_sprite.png
+# Miki_sprite.png
+# Ola_sprite.png
+# Młody_sprite.png
+# pilach_sprite.png
+# szczupak_sprite.png
+# tox_sprite.png
+# raven_sprite.png
+# Persil_sprite.png
+# Baala_sprite.png          # Główny antagonista (jeśli będzie w grze)
